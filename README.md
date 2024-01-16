@@ -1,4 +1,9 @@
 IQRA Digital Education Ebook - Release Notes (Version 1.0)
+![6113765193306716807_121](https://github.com/rezapahlepi/IQRA-Digital-Education/assets/21152697/937b5fea-1599-4ed9-ad54-c2f4c0bfb140)
+![6113765193306716806_121](https://github.com/rezapahlepi/IQRA-Digital-Education/assets/21152697/d0a8d4c7-42d2-4601-ba35-2fb3635d5c09)
+![6113765193306716805_121](https://github.com/rezapahlepi/IQRA-Digital-Education/assets/21152697/6b7af867-613f-4efb-a7bb-7b69e41f89a6)
+![6113765193306716804_121](https://github.com/rezapahlepi/IQRA-Digital-Education/assets/21152697/3dbc8374-48ce-47ae-a473-f874937af3be)
+![6113765193306716803_121](https://github.com/rezapahlepi/IQRA-Digital-Education/assets/21152697/e5f78861-359c-441a-b61c-a4497319fee0)
 
 New Features:
 
